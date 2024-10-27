@@ -9,12 +9,12 @@ var solution=new Array()
 
 /*Below lists the phrases that will be randomly displayed if the user correctly answers the question. You may extend or shorten this list as desired*/
 var compliments=new Array()
-compliments[0]="Excellent!"
-compliments[1]="Wow, you're really rocking!"
-compliments[2]="You must have studied hard. Good job!"
-compliments[3]="Right on."
-compliments[4]="Correct!"
-compliments[5]="Great Job!"
+compliments[0]="Amazing!"
+compliments[1]="Nailed it your on fire!"
+compliments[2]="Keep up the good work!"
+compliments[3]="Exactly right."
+compliments[4]="Absolutely Correct!"
+compliments[5]="Spot on! You’re a quiz genius!"
 compliments[6]="Good work!"
 
 
